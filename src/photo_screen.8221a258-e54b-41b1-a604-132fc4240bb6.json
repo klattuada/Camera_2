@@ -1,4 +1,5 @@
 {
+    "id": "8221a258-e54b-41b1-a604-132fc4240bb6",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -34,7 +35,7 @@
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "StatusBarColor": "rgba(80, 227, 194, 1)",
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
@@ -523,12 +524,14 @@
                     "position": "absolute",
                     "left": "38.320003255208334%",
                     "top": "10.80209712038512%",
-                    "display": "flex"
+                    "display": "flex",
+                    "backgroundColor": "rgba(41, 32, 228, 1)"
                 },
                 "capInsets": {},
                 "ParentId": "8221a258-e54b-41b1-a604-132fc4240bb6",
                 "position": "absolute",
-                "edgeOffsets": 518
+                "edgeOffsets": 518,
+                "BackgroundColor": "rgba(41, 32, 228, 1)"
             },
             "children": [],
             "id": "28602f36-f51f-4ffe-8cd4-874dd3cc6797",
@@ -550,10 +553,10 @@
                 "Height": 51,
                 "Width": 170,
                 "Visible": true,
-                "X": 106.80000305175781,
-                "Y": 5.800000190734863,
-                "RelativeX": 106.80000305175781,
-                "RelativeY": 5.800000190734863,
+                "X": 108,
+                "Y": 0,
+                "RelativeX": 108,
+                "RelativeY": 0,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(227, 161, 50, 1)",
@@ -595,7 +598,7 @@
                 },
                 "ParentId": "8221a258-e54b-41b1-a604-132fc4240bb6",
                 "position": "absolute",
-                "edgeOffsets": 5.800000190734863,
+                "edgeOffsets": 0,
                 "children": " Kevin's Camera App"
             },
             "children": [],
@@ -604,7 +607,6 @@
             "name": "name_label_sc1"
         }
     ],
-    "id": "8221a258-e54b-41b1-a604-132fc4240bb6",
     "thunkableVersion": 443,
     "name": "photo_screen"
 }
