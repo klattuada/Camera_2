@@ -21,8 +21,8 @@
                     "createdAt": "2024-01-30T03:08:31.961Z",
                     "updatedAt": "2024-01-30T03:08:31.961Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65adcd41e4b5267b340f62ca/projects/65b867badee5520c50b223ab/assets/65b8682fd495eb057a709831?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T191401Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=211df6469f3144711c4f5f8c5c37fef5c05fe32eeeb0892930d6bf4d0440db4703da1897a708bab24e2068490f9f0b356b9e43f397a9d4ed6f4d3a59da892d0cb72fb742bf4f54caf7699297bfb63f616f0f111e7833509b5a9f9780e25fea10b30fbdc9985013962d2275322704cb221f2fe04509eafa6c28a9548cf759248356f179adf66081f41d0ad729df2e985885d2d3e3b171d7a556c24516ed3253351d6c2234c1cdeb883c619c04b7ce135e324cbf2058ad5bb896ee66bbabb9ed4229216af49dfd9fbd11b79a00063116cca90264f93dca221335d0d7f4f267121c44e19f14cbbac384f53451b84761afb67084b5bf28ca844bdef10f5b4068cd86",
-                    "signedUrlExpirationTime": 1707333241017
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65adcd41e4b5267b340f62ca/projects/65b867badee5520c50b223ab/assets/65b8682fd495eb057a709831?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240207%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240207T022158Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7cf7d8100d32379aa24b75aa5a989950be530937fecf99cb9137c8e815817c57c63601f0479ce8b674f3771ac36dd0dcbd3909121e83843c66fc6ca63a99ea3049b69295f9c629810eb33e64757c73050d8cc6c6dfc859299d0829124856c9cec91718252e4d83ba30d865ade656d659117e416c63161800f9902b83dce02cdf93db4af654f599684246dc0a412706633583a02e651148464d0dfbacee6722db050949f4e346cb0ecea7e9cf66fe108e198fc11279d58e9c31654bd76380816e9b5b4276a0b1b92c23b02157d37979d4b4f539c0a85a4c1002c819622a5971436fb3021171c0779c4c9ecbc0f996ba9857913f9647752431994ccf8de139eee6",
+                    "signedUrlExpirationTime": 1707445318916
                 }
             },
             "backendUpgradeVersion": 24,
@@ -47,6 +47,7 @@
                         ]
                     },
                     "enabledFeatures": {
+                        "location": true,
                         "iap": false
                     }
                 },
@@ -91,10 +92,10 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera Blocks App",
+            "projectName": "Camera Blocks App Dev",
             "settings": {
                 "teamId": null,
-                "appName": "Camera App",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -118,14 +119,14 @@
                 "yandexAPIKey": null,
                 "imageRecognizerServerURL": null,
                 "imageRecognizerSubscriptionKey": null,
-                "cloudName": "db1f0i0am",
-                "cloudinaryAPIKey": "213834356996593",
-                "cloudinaryAPISecret": "-dIXZhOXZ-l9_SMPk8N4c1ADI80",
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -143,7 +144,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": "Camera App",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -167,14 +168,14 @@
                 "yandexAPIKey": null,
                 "imageRecognizerServerURL": null,
                 "imageRecognizerSubscriptionKey": null,
-                "cloudName": "db1f0i0am",
-                "cloudinaryAPIKey": "213834356996593",
-                "cloudinaryAPISecret": "-dIXZhOXZ-l9_SMPk8N4c1ADI80",
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
